@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sz/Code/Cpp/concurrency/ch3/shared_mutex/main.cpp
+iostream
+-
+map
+-
+thread
+-
+memory
+-
+shared_mutex
+-
+
